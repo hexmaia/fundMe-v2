@@ -1,0 +1,7 @@
+FundMeTest:testContribuitorsList() (gas: 57996)
+FundMeTest:testDemo() (gas: 233)
+FundMeTest:testSendingEnough() (gas: 56069)
+FundMeTest:testSendingNotEnough() (gas: 27331)
+FundMeTest:testWithdrawNotOwner() (gas: 57410)
+FundMeTest:testWithdrawOwner() (gas: 11611)
+FundMeTest:testingReceive() (gas: 12674)
